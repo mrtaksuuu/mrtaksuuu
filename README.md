@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Mert
 #### Software Developer
 I'm Mert from Turkey. I'm 23 years ago. I graduated Dokuz Eylül University in 2021. I really enjoy learning languages and frameworks.
+![Yazılımcı-Gif](https://user-images.githubusercontent.com/96263914/147699735-f86170fd-8549-4734-ab94-be6b35ddcb2e.gif)
 
 Skills: C#
  
