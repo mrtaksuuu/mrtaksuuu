@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mert
 #### Software Developer
-I'm Mert from Turkey. I'm 23 years ago. I graduated Dokuz Eylül University in 2021. I really enjoy learning languages and frameworks.
+I'm Mert from Turkey. I'm 25 years ago. I graduated Dokuz Eylül University in 2021. I really enjoy learning languages and frameworks.
 
 <br>
 
